@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Trinity News</string>
+
+
+    <string name="ola">Olá,</string>
+    <string name="vamos_comear">Vamos Começar!</string>
+    <string name="login_string">LOGIN</string>
+    <string name="novo_user">Novo Usuário?</string>
+    <string name="registro">Registre-se</string>
+    <string name="esqueceu_a_senha">Esqueceu a Senha?</string>
+    <string name="senha"> Senha</string>
+    <string name="senhaNova"> Sua nova senha</string>
+    <string name="email">" Email"</string>
+    <string name="emailAtual">" Digite seu email atual"</string>
+    <string name="vamos_criar_uma_conta">Vamos criar uma conta.</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="voc_j_tem_uma_conta">Você já tem uma conta?</string>
+    <string name="fa_a_login">Faça Login</string>
+    <string name="registrar">Registrar</string>
+    <string name="logado_com">Logado com o,</string>
+    <string name="home">HOME</string>
+    <string name="sair">Sair</string>
+    <string name="titulo_da_noticia">Titulo da Noticia</string>
+    <string name="titulo_jornal">Diário de Pernambuco</string>
+    <string name="data_materia">21 JAN 2021</string>
+    <string name="recuperar_login">Vamos recuperar sua conta.</string>
+    <string name="btn_alterar">Alterar</string>
+</resources>
